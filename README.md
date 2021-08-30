@@ -2,7 +2,7 @@
 - We were given the task of determining the number of retiring employees per title, and identifying employees who are eligible to participate in a mentorship program. We created some new tables that help identify those employees and find who is eligible.
 --------------------------
 ## Resources
-- Employees that are retiring per position
+- Employees that are retiring per position ---
 ![retiring](https://user-images.githubusercontent.com/80421977/131390263-f22746b8-c339-46f5-89f0-5a22763c684b.PNG)
 - [Employees eligible for the mentorship program](/Data/mentorship_eligibility.csv)
 --------------------------
